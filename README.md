@@ -17,6 +17,12 @@ This project is a **high-performance port scanner** built using Python and Strea
 
 ---
 
+## Screenshot
+![stream](https://github.com/user-attachments/assets/1bffb6bd-5984-4d46-876e-ea180bb630c0)
+
+
+
+
 ## Installation
 
 1. Clone the repository:
